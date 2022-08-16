@@ -3,7 +3,7 @@
 
 
 # Project Description
-The cost of insurance is determined by various factors such as region and sex. Using a dataset with various independent variables and an insurance price based on these variables, we want to find out which model will help in giving us the mostaccurate insurance price predictions. Finding the best fitting model has many factors to it, but for this project only the adjusted r^2 is being looked at, along with any major overfitting/underfitting. Some of the models tested are multiple linear 
+The cost of insurance is determined by various factors such as region and sex. Using a dataset with various independent variables and an insurance price based on these variables, we want to find out which model will help in giving us the most accurate insurance price predictions. Finding the best fitting model has many factors to it, but for this project only the adjusted r^2 is being looked at, along with any major overfitting/underfitting. Some of the models tested are multiple linear 
 regression, polynomial regression, support vector regression, decision tree regression, and random forest regression.
 
 
