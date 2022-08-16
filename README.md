@@ -1,4 +1,4 @@
-# Regression Analysis Project
+# Regression Model Project
  The dataset used for this project was obtained from the text "Machine Learning with R", by Brett Lantz. All code for this project was written solely by Ashwin Verma
 
 
