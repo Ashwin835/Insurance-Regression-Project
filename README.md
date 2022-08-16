@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-A collection of all the machine learning projects I've worked on
+A collection of all the machine learning projects I've worked on 
