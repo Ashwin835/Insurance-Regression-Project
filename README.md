@@ -1,4 +1,4 @@
-# Regression Model Project
+# Insurance Regression Project
  The dataset used for this project was obtained from the text "Machine Learning with R", by Brett Lantz. All code for this project was written solely by Ashwin Verma
 
 
@@ -16,7 +16,7 @@ Since the adjusted r^2 was less than 80%, we can conclude that slight underfitti
 
 
                                                            POLYNOMIAL LINEAR REGRESSION 
- This model is better than multiple linear regression, however, the polynomial feature degree should be less than 5th to 
+ This model is better than multiple linear regression, however, the polynomial feature degree should be less than 5 to 
  avoid major overfitting. Polynomial feature degree 3 is the best in giving the most accurate predictive model.
 #it predicts around 85% of the x train and test data correctly. Although this model is good, a better model is needed
 
@@ -43,4 +43,4 @@ Just like SVM, Random Forest Regression has a really good adjusted r^2, with bot
                                                          BEST MODEL 
  Based on all the results, the best models to use in order to make accurate insurnace prices is the random forest regression
  and Support Vector Regression. Their adjusted r^2 were the highest, and both their algorithms helped in making
- the best predictive model, along with very little to no fitting bias errors
+ the best predictive model, along with very little fitting bias
