@@ -17,7 +17,7 @@ Since the adjusted r^2 was less than 80%, we can conclude that slight underfitti
 
                                                            POLYNOMIAL LINEAR REGRESSION 
  This model is better than multiple linear regression, however, the polynomial feature degree should be less than 5 to 
- avoid major overfitting. Polynomial feature degree 3 is the best in giving the most accurate predictive model.
+ avoid major underfitting. Polynomial feature degree 4 is the best in giving the most accurate predictive model.
 #it predicts around 85% of the x train and test data correctly. Although this model is good, a better model is needed
 
 
